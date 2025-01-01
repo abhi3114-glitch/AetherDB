@@ -1,0 +1,15 @@
+# Updates
+
+- feat: add validation (2025-11-03 19:25:00 +0530)
+- feat: metrics collection (2025-11-07 10:11:00 +0530)
+- style: code formatting (2025-11-08 18:27:00 +0530)
+- docs: update README (2025-11-10 09:15:00 +0530)
+- refactor: simplify logic (2025-11-21 14:16:00 +0530)
+- fix: ui glitch (2025-11-21 19:49:00 +0530)
+- style: code formatting (2025-11-22 13:50:00 +0530)
+- feat: metrics collection (2025-11-25 21:00:00 +0530)
+- fix: race condition (2025-12-04 20:04:00 +0530)
+- fix: ui glitch (2025-12-05 19:25:00 +0530)
+- test: add basic tests (2025-12-05 20:46:00 +0530)
+- chore: version bump (2025-12-06 15:00:00 +0530)
+- feat: add logging (2025-12-10 18:22:00 +0530)
